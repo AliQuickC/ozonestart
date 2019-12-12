@@ -1,2 +1,2 @@
 # ozonestart
-https://aliquickc.github.io/ozonestart
+aliquickc.github.io/ozonestart
